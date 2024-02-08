@@ -11,7 +11,6 @@ Entities:
      - Password
      - Address
      - Phone Number
-     - ...
 
 3. **Products**: This entity represents the merchandise available for purchase.
 
