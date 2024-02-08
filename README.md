@@ -13,7 +13,7 @@ Entities:
      - Phone Number
      - ...
 
-2. **Products**: This entity represents the merchandise available for purchase.
+3. **Products**: This entity represents the merchandise available for purchase.
 
    - Attributes:
      - ProductID (Primary Key)
@@ -24,7 +24,7 @@ Entities:
      - Stock Quantity
      - ...
 
-3. **Categories**: This entity represents the categories to which products belong.
+4. **Categories**: This entity represents the categories to which products belong.
 
    - Attributes:
      - CategoryID (Primary Key)
@@ -32,7 +32,7 @@ Entities:
      - Description
      - ...
 
-4. **Orders**: This entity represents the orders placed by users.
+5. **Orders**: This entity represents the orders placed by users.
 
    - Attributes:
      - OrderID (Primary Key)
@@ -42,7 +42,7 @@ Entities:
      - Status (e.g., pending, processing, completed, cancelled)
      - ...
 
-5. **OrderItems**: This entity represents the items within each order.
+6. **OrderItems**: This entity represents the items within each order.
 
    - Attributes:
      - OrderItemID (Primary Key)
